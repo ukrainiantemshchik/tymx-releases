@@ -1,6 +1,6 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "python": "3.12",
-  "package": "packages/tymx-app-0.0.3.zip",
-  "sha256": "643ad5b4a5a9fb1d2ffcf4e6c1a36a3549556077a4f3a749e4982e75b0d24f2a"
+  "package": "packages/tymx-app-0.0.4.zip",
+  "sha256": "89dc10c6c5488c6255e3a869ed2a9368532211788c54434e00dd8ba58dd717c9"
 }
